@@ -1,4 +1,4 @@
-# ![image](https://raw.githubusercontent.com/githubxnishant/ECO2_View/59b14f68eb7d4f3b06276e0b26e32cd8d55e2494/Assets/logo.png) ECO2_View
+# ![image](https://github.com/githubxnishant/matrix-2.0/blob/main/Images/logo.png) ECO2_View
 
 ### Problem Statement ID - SIH1644
 
